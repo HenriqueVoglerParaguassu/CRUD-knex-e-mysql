@@ -5,7 +5,7 @@ module.exports = {
   development: {
     client: 'mysql',
     connection: {
-      host : '127.0.0.1:3308',
+      host : '127.0.0.1',
       user : 'root',
       password : '',
       database : 'knex_test'
